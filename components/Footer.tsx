@@ -98,7 +98,7 @@ export default function Footer() {
                             </a>
 
                             {/* Email */}
-                            <a href="mailto:hello@comfortbreakpenguin.com" className="group/btn4 relative inline-flex w-full">
+                            <a href="mailto:contact@thepenguins.live" className="group/btn4 relative inline-flex w-full">
                                 <div className="absolute inset-0 bg-gradient-to-r from-green-400 to-emerald-600 rounded-xl opacity-0 transition-opacity duration-300 group-hover/btn4:opacity-100 blur-[2px]"></div>
                                 <div className="relative w-full bg-[#142618] border border-white/10 hover:border-green-400 text-white px-6 py-3 rounded-xl font-bold flex items-center justify-start gap-4 transition-all duration-300 group-hover/btn4:-translate-y-0.5 overflow-hidden">
                                     <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent -translate-x-full group-hover/btn4:animate-shimmer"></div>
